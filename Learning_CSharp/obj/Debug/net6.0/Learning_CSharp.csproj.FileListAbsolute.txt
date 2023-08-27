@@ -1,0 +1,15 @@
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\bin\Debug\net6.0\Learning_CSharp.exe
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\bin\Debug\net6.0\Learning_CSharp.deps.json
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\bin\Debug\net6.0\Learning_CSharp.runtimeconfig.json
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\bin\Debug\net6.0\Learning_CSharp.dll
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\bin\Debug\net6.0\Learning_CSharp.pdb
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\obj\Debug\net6.0\Learning_CSharp.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\obj\Debug\net6.0\Learning_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\obj\Debug\net6.0\Learning_CSharp.AssemblyInfoInputs.cache
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\obj\Debug\net6.0\Learning_CSharp.AssemblyInfo.cs
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\obj\Debug\net6.0\Learning_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\obj\Debug\net6.0\Learning_CSharp.dll
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\obj\Debug\net6.0\refint\Learning_CSharp.dll
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\obj\Debug\net6.0\Learning_CSharp.pdb
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\obj\Debug\net6.0\Learning_CSharp.genruntimeconfig.cache
+C:\Users\Steph\OneDrive\Desktop\DevCodeCamp\C#Intro\Learning_CSharp\Learning_CSharp\obj\Debug\net6.0\ref\Learning_CSharp.dll
