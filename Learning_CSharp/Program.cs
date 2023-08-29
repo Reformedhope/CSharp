@@ -29,6 +29,33 @@
 
 
 
+<<<<<<< HEAD
+=======
+            int fDegree;
+            int subtractor;
+            int multipler;
+            int divider;
+
+            Console.WriteLine("what degree do you want to convert?");
+            fDegree = Convert.ToInt32(Console.ReadLine());
+            subtractor = 32;
+            multipler = 5;
+            divider = 9;
+           int startConv = fDegree - subtractor;
+           int multConv = startConv * multipler;
+            int divConv = multConv / divider;
+            Console.WriteLine(divConv);
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 0c48f2aa5359adb49c1fe8ffa31851ce00af7e70
 
 
 
